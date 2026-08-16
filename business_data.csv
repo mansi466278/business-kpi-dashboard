@@ -1,0 +1,21 @@
+order_id,date,city,product,category,quantity,unit_price,payment_method
+2001,2026-01-04,Delhi,Wireless Mouse,Electronics,2,799,UPI
+2002,2026-01-07,Jaipur,Notebook,Stationery,5,120,Card
+2003,2026-01-11,Lucknow,Keyboard,Electronics,1,1499,UPI
+2004,2026-01-16,Bareilly,Desk Lamp,Home,2,899,Card
+2005,2026-01-22,Noida,Backpack,Accessories,2,1299,UPI
+2006,2026-02-03,Delhi,Headphones,Electronics,1,1999,Card
+2007,2026-02-09,Jaipur,Notebook,Stationery,8,120,UPI
+2008,2026-02-15,Lucknow,Water Bottle,Home,4,499,Cash
+2009,2026-02-21,Bareilly,Keyboard,Electronics,2,1499,UPI
+2010,2026-02-28,Noida,Backpack,Accessories,1,1299,Card
+2011,2026-03-05,Delhi,Headphones,Electronics,2,1999,UPI
+2012,2026-03-10,Jaipur,Desk Lamp,Home,3,899,Card
+2013,2026-03-17,Lucknow,Notebook,Stationery,6,120,UPI
+2014,2026-03-23,Bareilly,Wireless Mouse,Electronics,3,799,UPI
+2015,2026-03-29,Noida,Water Bottle,Home,5,499,Cash
+2016,2026-04-04,Delhi,Keyboard,Electronics,1,1499,Card
+2017,2026-04-11,Jaipur,Backpack,Accessories,3,1299,UPI
+2018,2026-04-18,Lucknow,Headphones,Electronics,2,1999,Card
+2019,2026-04-24,Bareilly,Notebook,Stationery,7,120,UPI
+2020,2026-04-30,Noida,Desk Lamp,Home,2,899,Card
